@@ -1,0 +1,11 @@
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\bin\Debug\net8.0\ApplicationApp.deps.json
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\bin\Debug\net8.0\ApplicationApp.dll
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\bin\Debug\net8.0\ApplicationApp.pdb
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.AssemblyInfo.cs
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.dll
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\refint\ApplicationApp.dll
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ApplicationApp.pdb
+C:\Users\bruno\Source\Repos\EcommerceDDD\ApplicationApp\obj\Debug\net8.0\ref\ApplicationApp.dll
